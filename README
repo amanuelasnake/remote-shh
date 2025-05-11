@@ -15,8 +15,8 @@ This is a lightweight remote file explorer with SSH connection functionality bui
 
 ## Installation
 Clone the repository:
-`git clone https://github.com/yourusername/remote-ssh-explorer.git`
-`cd remote-ssh-explorer`
+`git clone https://github.com/yourusername/remote-ssh.git`
+`cd remote-ssh`
 
 ## Running
 Change Directory to remote-ssh:
