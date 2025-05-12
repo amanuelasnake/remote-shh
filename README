@@ -1,5 +1,5 @@
 # Remote File Explorer (SSH + Terminal)
-This is a lightweight remote file explorer with SSH connection functionality built using Python and Tkinter.
+Remote-SSH is a lightweight remote file explorer with SSH connection functionality built using Python and Tkinter.
 
 ## Features
 - Simple UI for SSH connection
@@ -7,7 +7,7 @@ This is a lightweight remote file explorer with SSH connection functionality bui
 - Secure password input field
 - Splash-style window
 
-## Requirements
+## Requirements and Libraries
 - Python 3
 - `tkinter`
 - `sshpass`
@@ -15,11 +15,11 @@ This is a lightweight remote file explorer with SSH connection functionality bui
 
 ## Installation
 Clone the repository:
-`git clone https://github.com/yourusername/remote-ssh.git`
+`git clone https://github.com/amanuelasnake/remote-ssh.git`
 `cd remote-ssh`
 
 ## Running
 Change Directory to remote-ssh:
-`cd /path/to/remote-ssh`
+`cd /path/to/remote-ssh/`
 Then:
 `python3 app.py`
