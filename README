@@ -25,5 +25,5 @@ Then:
 `python3 remote-ssh.py`
 
 ## Usage Instructions
-Note: Before running app.py, make sure you have already connected to the target machine via SSH at least once to establish and store its SSH fingerprint. This step is required for secure communication.
+Note: Before running remote-ssh.py, make sure you have already connected to the target machine via SSH at least once to establish and store its SSH fingerprint. This step is required for secure communication.
 
