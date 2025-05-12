@@ -23,3 +23,7 @@ Change Directory to remote-ssh:
 `cd /path/to/remote-ssh/`
 Then:
 `python3 app.py`
+
+## Usage Instructions
+Note: Before running app.py, make sure you have already connected to the target machine via SSH at least once to establish and store its SSH fingerprint. This step is required for secure communication.
+
